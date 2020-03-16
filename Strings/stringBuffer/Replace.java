@@ -1,3 +1,5 @@
+package com.stringBuffer;
+
 public class Replace {
 
 	public static void main(String[] args) {

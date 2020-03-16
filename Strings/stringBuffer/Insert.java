@@ -1,3 +1,5 @@
+package com.stringBuffer;
+
 import java.io.*;
 
 public class Insert {

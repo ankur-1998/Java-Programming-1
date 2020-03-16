@@ -1,4 +1,4 @@
-//Java StringBuffer delete/remove characterpackage com.stringBuffer;
+package com.stringBuffer;
 
 public class Delete {
 
